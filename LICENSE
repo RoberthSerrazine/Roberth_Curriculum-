@@ -1,21 +1,67 @@
-MIT License
+<html>
+<head>
+    <title>Currículo de Roberth Augusto Serrazina de Assis</title>
+    <style>
+        body {
+            font-family: "Times New Roman" Times , sans-serif;
+            font-size: 16px;
+            color: #FFFFFF;
+            margin: 50px;
+            padding: 20px;
+            background-color: black;
+            text-align: center;
+            border: 3px solid lightblue;
+            border-radius: 15px;
+        }
+        h1 {
+            font-size: 30px;
+            text-align: center;
+            color: lightblue;
+            text-decoration: underline;
+        }
+        h2 {
+            font-size: 22px;
+            margin-top: 30px;
+            color: lightblue;
+        }
+        ul {
+            list-style-type: none;
+            margin: 0 auto;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        p, li {
+            color: #CCCCCC;
+        }
+    </style>
+</head>
+<body>
+    <h1>Roberth Augusto Serrazina de Assis</h1>
+    <p>Engenheiro de Software e Músico free-lancer</p>
+    <h2>Contato</h2>
+    <ul>
+        <li>Email: roberthaugustosdeassis@gmail.com</li>
+        <li>Telefone: 2499263-3752</li>
+    </ul>
+    <h2>Resumo Profissional</h2>
+    <p>Estou cursando engenharia de software e já tenho experiência em linguagens de programação como C, C++, C#, Python, JavaScript, HTML e CSS. Tenho cursos na área da inteligência emocional em gestão empresarial e também sou free-lancer como músico.</p>
+    <h2>Educação</h2>
+    <ul>
+        <li>Univassouras - Engenharia de Software Cursando Período 3/8 (Ano de conclusão 2026)</li>
+        <li>Unicesumar - Gestão Empresarial e Inteligência Emocional (Cursos concluídos em 2022)</li>
+    </ul>
+    <h2>Experiência Profissional</h2>
+    <ul>
+        <li>Desenvolvedor de um app para smart store</li>
+        <li>Construção de um app em linguagem C++ para vacinação</li>
+    </ul>
+    <h2>Habilidades e Competências</h2>
+    <ul>
+        <li>Linguagens de programação: C, C++, C#, Python, JavaScript, HTML e CSS.</li>
+        <li>Músico com cursos em violão clássico e guitarra.</li>
+    </ul>
+</body>
+</html>
 
-Copyright (c) 2023 RoberthSerrazine
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
